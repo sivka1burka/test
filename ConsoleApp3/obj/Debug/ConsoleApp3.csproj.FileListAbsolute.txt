@@ -1,0 +1,14 @@
+C:\Users\ДейнекинС\source\repos\ConsoleApp45\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\ДейнекинС\source\repos\ConsoleApp45\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\ДейнекинС\source\repos\ConsoleApp45\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\ДейнекинС\source\repos\ConsoleApp45\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\ДейнекинС\source\repos\ConsoleApp45\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\ДейнекинС\source\repos\ConsoleApp45\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\deys1\Desktop\ConsoleApp45\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\deys1\Desktop\ConsoleApp45\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\deys1\Desktop\ConsoleApp45\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\deys1\Desktop\ConsoleApp45\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\deys1\Desktop\ConsoleApp45\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\deys1\Desktop\ConsoleApp45\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\deys1\Desktop\ConsoleApp45\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\deys1\Desktop\ConsoleApp45\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
